@@ -1,0 +1,7 @@
+mac_ipacl
+
+The Trusted BSD MAC module to allow users binding local IP addresses.
+
+How to install:
+- make
+- as root: kldload mac_ipacl.ko
